@@ -2,63 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugo-PaperMod/</loc>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/</loc>
     <lastmod>2025-05-14T20:37:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/hugo-PaperMod/fr/"
+                href="https://adityatelange.github.io/hugo-PaperMod/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:1313/hugo-PaperMod/fa/"
+                href="https://adityatelange.github.io/hugo-PaperMod/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-PaperMod/"
+                href="https://adityatelange.github.io/hugo-PaperMod/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/posts/my-fist-blog/</loc>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/my-fist-blog/</loc>
     <lastmod>2025-05-14T20:37:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/posts/</loc>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/</loc>
     <lastmod>2025-05-14T20:37:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/hugo-PaperMod/fr/posts/"
+                href="https://adityatelange.github.io/hugo-PaperMod/fr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:1313/hugo-PaperMod/fa/posts/"
+                href="https://adityatelange.github.io/hugo-PaperMod/fa/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-PaperMod/posts/"
+                href="https://adityatelange.github.io/hugo-PaperMod/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/categories/</loc>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/series/</loc>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/tags/</loc>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/archives/</loc>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/search/</loc>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/hugo-PaperMod/fr/search/"
+                href="https://adityatelange.github.io/hugo-PaperMod/fr/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-PaperMod/search/"
+                href="https://adityatelange.github.io/hugo-PaperMod/search/"
                 />
   </url>
 </urlset>
