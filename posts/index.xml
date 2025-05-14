@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on 我的日记</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on 我的日记</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 14 May 2025 10:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025年5月14日日记</title>
+      <link>http://localhost:1313/posts/2025-05-14-diary/</link>
+      <pubDate>Wed, 14 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/2025-05-14-diary/</guid>
+      <description>&lt;p&gt;今天是我用 Hugo 搭建博客的第一天，过程顺利，希望未来每天都能记录自己的点滴。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
