@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jojolen.github.io/myblog/fa/</loc>
+    <loc>https://jojolen.com/fa/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jojolen.github.io/myblog/"
+                href="https://jojolen.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jojolen.github.io/myblog/fr/"
+                href="https://jojolen.com/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://jojolen.github.io/myblog/fa/"
+                href="https://jojolen.com/fa/"
                 />
   </url><url>
-    <loc>https://jojolen.github.io/myblog/fa/posts/</loc>
+    <loc>https://jojolen.com/fa/posts/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jojolen.github.io/myblog/posts/"
+                href="https://jojolen.com/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jojolen.github.io/myblog/fr/posts/"
+                href="https://jojolen.com/fr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://jojolen.github.io/myblog/fa/posts/"
+                href="https://jojolen.com/fa/posts/"
                 />
   </url><url>
-    <loc>https://jojolen.github.io/myblog/fa/facategories/</loc>
+    <loc>https://jojolen.com/fa/facategories/</loc>
   </url><url>
-    <loc>https://jojolen.github.io/myblog/fa/faseries/</loc>
+    <loc>https://jojolen.com/fa/faseries/</loc>
   </url><url>
-    <loc>https://jojolen.github.io/myblog/fa/fatags/</loc>
+    <loc>https://jojolen.com/fa/fatags/</loc>
   </url>
 </urlset>

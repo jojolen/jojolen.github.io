@@ -2,63 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jojolen.github.io/myblog/</loc>
+    <loc>https://jojolen.com/</loc>
     <lastmod>2025-05-14T20:37:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jojolen.github.io/myblog/fr/"
+                href="https://jojolen.com/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://jojolen.github.io/myblog/fa/"
+                href="https://jojolen.com/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jojolen.github.io/myblog/"
+                href="https://jojolen.com/"
                 />
   </url><url>
-    <loc>https://jojolen.github.io/myblog/posts/my-fist-blog/</loc>
+    <loc>https://jojolen.com/posts/my-fist-blog/</loc>
     <lastmod>2025-05-14T20:37:23+08:00</lastmod>
   </url><url>
-    <loc>https://jojolen.github.io/myblog/posts/</loc>
+    <loc>https://jojolen.com/posts/</loc>
     <lastmod>2025-05-14T20:37:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jojolen.github.io/myblog/fr/posts/"
+                href="https://jojolen.com/fr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://jojolen.github.io/myblog/fa/posts/"
+                href="https://jojolen.com/fa/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jojolen.github.io/myblog/posts/"
+                href="https://jojolen.com/posts/"
                 />
   </url><url>
-    <loc>https://jojolen.github.io/myblog/categories/</loc>
+    <loc>https://jojolen.com/categories/</loc>
   </url><url>
-    <loc>https://jojolen.github.io/myblog/series/</loc>
+    <loc>https://jojolen.com/series/</loc>
   </url><url>
-    <loc>https://jojolen.github.io/myblog/tags/</loc>
+    <loc>https://jojolen.com/tags/</loc>
   </url><url>
-    <loc>https://jojolen.github.io/myblog/archives/</loc>
+    <loc>https://jojolen.com/archives/</loc>
   </url><url>
-    <loc>https://jojolen.github.io/myblog/search/</loc>
+    <loc>https://jojolen.com/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jojolen.github.io/myblog/fr/search/"
+                href="https://jojolen.com/fr/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jojolen.github.io/myblog/search/"
+                href="https://jojolen.com/search/"
                 />
   </url>
 </urlset>
