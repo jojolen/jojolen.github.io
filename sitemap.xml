@@ -1,25 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://jojolen.com/en/sitemap.xml</loc>
-    
-      <lastmod>2025-05-14T20:37:23+08:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://jojolen.com/fr/sitemap.xml</loc>
-    
-      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://jojolen.com/fa/sitemap.xml</loc>
-    
-      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://jojolen.com/</loc>
+    <lastmod>2025-05-14T20:37:23+08:00</lastmod>
+  </url><url>
+    <loc>https://jojolen.com/posts/my-fist-blog/</loc>
+    <lastmod>2025-05-14T20:37:23+08:00</lastmod>
+  </url><url>
+    <loc>https://jojolen.com/posts/</loc>
+    <lastmod>2025-05-14T20:37:23+08:00</lastmod>
+  </url><url>
+    <loc>https://jojolen.com/posts/202551518audjpy/</loc>
+    <lastmod>2025-05-14T20:37:23+08:00</lastmod>
+  </url><url>
+    <loc>https://jojolen.com/categories/</loc>
+  </url><url>
+    <loc>https://jojolen.com/search.fr/</loc>
+  </url><url>
+    <loc>https://jojolen.com/series/</loc>
+  </url><url>
+    <loc>https://jojolen.com/tags/</loc>
+  </url><url>
+    <loc>https://jojolen.com/archives/</loc>
+  </url><url>
+    <loc>https://jojolen.com/search/</loc>
+  </url>
+</urlset>
