@@ -2,63 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/</loc>
+    <loc>https://jojolen.github.io/myblog/</loc>
     <lastmod>2025-05-14T20:37:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://adityatelange.github.io/hugo-PaperMod/fr/"
+                href="https://jojolen.github.io/myblog/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://adityatelange.github.io/hugo-PaperMod/fa/"
+                href="https://jojolen.github.io/myblog/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adityatelange.github.io/hugo-PaperMod/"
+                href="https://jojolen.github.io/myblog/"
                 />
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/my-fist-blog/</loc>
+    <loc>https://jojolen.github.io/myblog/posts/my-fist-blog/</loc>
     <lastmod>2025-05-14T20:37:23+08:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/</loc>
+    <loc>https://jojolen.github.io/myblog/posts/</loc>
     <lastmod>2025-05-14T20:37:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://adityatelange.github.io/hugo-PaperMod/fr/posts/"
+                href="https://jojolen.github.io/myblog/fr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://adityatelange.github.io/hugo-PaperMod/fa/posts/"
+                href="https://jojolen.github.io/myblog/fa/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adityatelange.github.io/hugo-PaperMod/posts/"
+                href="https://jojolen.github.io/myblog/posts/"
                 />
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/categories/</loc>
+    <loc>https://jojolen.github.io/myblog/categories/</loc>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/series/</loc>
+    <loc>https://jojolen.github.io/myblog/series/</loc>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/tags/</loc>
+    <loc>https://jojolen.github.io/myblog/tags/</loc>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/archives/</loc>
+    <loc>https://jojolen.github.io/myblog/archives/</loc>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/search/</loc>
+    <loc>https://jojolen.github.io/myblog/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://adityatelange.github.io/hugo-PaperMod/fr/search/"
+                href="https://jojolen.github.io/myblog/fr/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adityatelange.github.io/hugo-PaperMod/search/"
+                href="https://jojolen.github.io/myblog/search/"
                 />
   </url>
 </urlset>

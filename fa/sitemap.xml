@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fa/</loc>
+    <loc>https://jojolen.github.io/myblog/fa/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adityatelange.github.io/hugo-PaperMod/"
+                href="https://jojolen.github.io/myblog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://adityatelange.github.io/hugo-PaperMod/fr/"
+                href="https://jojolen.github.io/myblog/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://adityatelange.github.io/hugo-PaperMod/fa/"
+                href="https://jojolen.github.io/myblog/fa/"
                 />
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fa/posts/</loc>
+    <loc>https://jojolen.github.io/myblog/fa/posts/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adityatelange.github.io/hugo-PaperMod/posts/"
+                href="https://jojolen.github.io/myblog/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://adityatelange.github.io/hugo-PaperMod/fr/posts/"
+                href="https://jojolen.github.io/myblog/fr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://adityatelange.github.io/hugo-PaperMod/fa/posts/"
+                href="https://jojolen.github.io/myblog/fa/posts/"
                 />
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fa/facategories/</loc>
+    <loc>https://jojolen.github.io/myblog/fa/facategories/</loc>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fa/faseries/</loc>
+    <loc>https://jojolen.github.io/myblog/fa/faseries/</loc>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fa/fatags/</loc>
+    <loc>https://jojolen.github.io/myblog/fa/fatags/</loc>
   </url>
 </urlset>

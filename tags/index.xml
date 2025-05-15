@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on JOJOLEN交易之路</title>
-    <link>https://adityatelange.github.io/hugo-PaperMod/tags/</link>
+    <link>https://jojolen.github.io/myblog/tags/</link>
     <description>Recent content in Tags on JOJOLEN交易之路</description>
     <image>
       <title>JOJOLEN交易之路</title>
-      <url>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</url>
-      <link>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</link>
+      <url>https://jojolen.github.io/myblog/images/papermod-cover.png</url>
+      <link>https://jojolen.github.io/myblog/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
-    <atom:link href="https://adityatelange.github.io/hugo-PaperMod/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jojolen.github.io/myblog/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
